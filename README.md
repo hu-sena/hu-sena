@@ -8,7 +8,7 @@ Here, you'll find several projects as reflection of my dedication in acquiring a
 ###  Personal Goals:
 
 - learn tailwind CSS + figma (!!!!!)
-- update old school projects
+- upgrade old school projects
 - create mini """nonsense""" projects 
 
 <hr>
