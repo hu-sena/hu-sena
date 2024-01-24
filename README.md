@@ -1,6 +1,6 @@
 ### Hi👋
 
-I'm Husna, a computer science student as an enthusiastic and aspiring full-stack developer with a passion for learning and building innovative solutions. 
+I'm Husna, an enthusiastic and aspiring full-stack developer with a passion for learning and building innovative solutions. 
 Here, you'll find several projects as reflection of my dedication in acquiring and mastering the knowledge while evolving as a developer.
 
 <hr>
