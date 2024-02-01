@@ -9,7 +9,7 @@ Here, you'll find several projects as reflection of my dedication in acquiring a
 
 - learn tailwind CSS + figma (!!!!!)
 - upgrade old school projects
-- current learning: JUnit
+- current learning: JUnit, NextJS
 
 <hr>
 
