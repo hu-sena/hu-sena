@@ -9,7 +9,7 @@ Here, you'll find several projects as reflection of my dedication in acquiring a
 
 - learn tailwind CSS + figma (!!!!!)
 - upgrade old school projects
-- create mini """nonsense""" projects 
+- current learning: JUnit
 
 <hr>
 
